@@ -75,13 +75,8 @@ These confirm an SQL Injection probe and attempted exploitation.
 ---
 
 ## 6. Mitigation & Response Actions
-
-1. Verified firewall blocks on the attacking IP address.
-2. Confirmed WAF rules blocking SQL Injection signatures.
-3. Reviewed application logs—no successful query manipulation detected.
-4. Added IP to internal blocklist.
-5. Documented incident for SOC recordkeeping.
-
+1. Added IP to internal blocklist.
+2. Documented incident for SOC recordkeeping.
 ---
 
 ## 7. Recommendations
