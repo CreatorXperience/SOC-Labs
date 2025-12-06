@@ -6,7 +6,7 @@
 | Field | Details |
 | :--- | :--- |
 | **Incident ID** | INC-2024-005 |
-| **Date of Report** | 2024-05-21 |
+| **Date of Report** | Feb, 28, 2022  |
 | **Analyst** | Habeeb |
 | **Status** | Investigated - Confirmed Malicious |
 | **Severity** | **Medium** |
@@ -23,7 +23,7 @@ A medium-severity Insecure Direct Object Reference (IDOR) attack originating fro
 *   **What:** An Insecure Direct Object Reference (IDOR) web application attack was identified. The attacker systematically altered URL parameters in an attempt to access resources and data belonging to other users.
 *   **Why:** The motive was to gain unauthorized access to confidential user information, constituting a breach of data privacy.
 *   **Where:** The attack targeted the company's primary web application server.
-*   **When:** `[Date and Time of Attack]`
+*   **When:** `Feb, 28, 2022`
 *   **Who:** The attack originated from the IP address `134.209.118.137`, which is associated with the DigitalOcean hosting provider.
 
 ---
